@@ -1,3 +1,4 @@
 [submodule "credentials"]
 	path = credentials
 	url = https://github.com/rafaelmoraes/sub-repo.git
+	branch = main
